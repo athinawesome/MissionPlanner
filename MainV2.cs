@@ -4819,6 +4819,9 @@ namespace MissionPlanner
 
                     //We have our panel, color it and exit loop
                     break;
+
+
+                    //hello test here
                 }
             }
         }
